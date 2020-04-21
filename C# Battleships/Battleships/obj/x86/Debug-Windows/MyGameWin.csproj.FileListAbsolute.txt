@@ -1,0 +1,119 @@
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\animations\startup.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\bundles\splash.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\fonts\arial.ttf
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\fonts\cour.ttf
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\fdFile.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\fdFolder.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\Swinburne.jpg
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\SwinGameAni.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\panels\FileDialog.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\sounds\error.wav
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\SwinGame.icns
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\SwinGame.ico
+H:\Labs\2018\BB\GameTemplate\bin\Debug\MyGame.exe.config
+H:\Labs\2018\BB\GameTemplate\bin\Debug\MyGame.exe
+H:\Labs\2018\BB\GameTemplate\bin\Debug\MyGame.pdb
+H:\Labs\2018\BB\GameTemplate\bin\Debug\SwinGame.dll
+H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
+H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGame.exe
+H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGame.pdb
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\animations\startup.txt
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\bundles\splash.txt
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\fonts\arial.ttf
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\fonts\cour.ttf
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\images\fdFile.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\images\fdFolder.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\images\Swinburne.jpg
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\images\SwinGameAni.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\panels\FileDialog.txt
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\sounds\error.wav
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\SwinGame.icns
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\Resources\SwinGame.ico
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\MyGame.exe.config
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\MyGame.exe
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\MyGame.pdb
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\bin\Debug\SwinGame.dll
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\obj\x86\Debug-Windows\MyGame.exe
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\GameTemplate\GameTemplate\obj\x86\Debug-Windows\MyGame.pdb
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\animations\startup.txt
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\bundles\splash.txt
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\fonts\arial.ttf
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\fonts\cour.ttf
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\fdFile.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\fdFolder.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\Swinburne.jpg
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\SwinGameAni.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\panels\FileDialog.txt
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\error.wav
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\SwinGame.icns
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\SwinGame.ico
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\MyGame.exe.config
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\MyGame.exe
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\MyGame.pdb
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\SwinGame.dll
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\obj\x86\Debug-Windows\MyGame.exe
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\obj\x86\Debug-Windows\MyGame.pdb
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\animations\splash.txt
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\fonts\ffaccess.ttf
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\highscores.txt
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\deploy.jpg
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\deploy_button_hl.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\deploy_dir_button_horiz.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\deploy_dir_button_vert.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\deploy_play_button.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\deploy_randomize_button.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\discover.jpg
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\explosion.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\loader_empty.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\loader_full.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\main_page.jpg
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\ship_deploy_horiz_1.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\ship_deploy_horiz_2.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\ship_deploy_horiz_3.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\ship_deploy_horiz_4.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\ship_deploy_horiz_5.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\ship_deploy_vert_1.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\ship_deploy_vert_2.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\ship_deploy_vert_3.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\ship_deploy_vert_4.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\ship_deploy_vert_5.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\splash.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\SplashBack.png
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\images\SwinGameAni.jpg
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\hit.wav
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\horrordrone.mp3
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\lose.wav
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\sink.wav
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\SwinGameStart.ogg
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\watershot.wav
+D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\winner.wav
