@@ -172,7 +172,7 @@ public class SeaGrid : ISeaGrid
 		try {
 			//tile is already hit
 			if (_GameTiles[row, col].Shot) {
-				return new AttackResult(ResultOfAttack.ShotAlready, "have already attacked [" + col + "," + row + "]!", row, col);
+				return new AttackResult(ResultOfAttack.ShotAlready, "have already attacked [" + UtilityFunctions.RowConverter(row) + "," + col + "]!", row, col);
 			}
 
 			_GameTiles[row, col].Shoot();
@@ -186,6 +186,13 @@ public class SeaGrid : ISeaGrid
 			if (_GameTiles[row, col].Ship.IsDestroyed) {
 				_GameTiles[row, col].Shot = true;
 				_ShipsKilled += 1;
+
+				bool isHuman = false;
+				isHuman = object.ReferenceEquals(GameController.TheGame.Player, GameController.HumanPlayer);
+				if (!isHuman)
+				{
+					return new AttackResult(ResultOfAttack.Destroyed, _GameTiles[row, col].Ship, "destroyed your", row, col);
+				}
 				return new AttackResult(ResultOfAttack.Destroyed, _GameTiles[row, col].Ship, "destroyed the enemy's", row, col);
 			}
 

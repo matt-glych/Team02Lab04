@@ -224,6 +224,15 @@ static class UtilityFunctions
 	}
 
 	/// <summary>
+	/// Converts the row integer into a alpha character
+	/// </summary>
+	public static char RowConverter(int row)
+	{
+		string alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"; 
+		return alpha[row];
+	}
+
+	/// <summary>
 	/// Draws the background for the current state of the game
 	/// </summary>
 

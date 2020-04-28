@@ -245,3 +245,4 @@ E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battle
 E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\obj\x86\Debug-Windows\MyGame.pdb
 E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\deploy_coords.jpg
 E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\discover_coords.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\sounds\Background.mp3

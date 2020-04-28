@@ -17,7 +17,6 @@ public static class GameController
 
 	private static BattleShipsGame _theGame;
 	private static Player _human;
-
 	private static AIPlayer _ai;
 
 	private static Stack<GameState> _state = new Stack<GameState>();
@@ -40,6 +39,16 @@ public static class GameController
 	/// <returns>the human player</returns>
 	public static Player HumanPlayer {
 		get { return _human; }
+	}
+
+	// <summary>
+	/// Returns the game .
+	/// </summary>
+	/// <value>the human player</value>
+	/// <returns>the human player</returns>
+	public static BattleShipsGame TheGame
+	{
+		get { return _theGame; }
 	}
 
 	/// <summary>
@@ -208,7 +217,7 @@ public static class GameController
 		_theGame.AddDeployedPlayer(_human);
 		_theGame.AddDeployedPlayer(_ai);
 
-		SwitchState(GameState.EndingGame);
+		SwitchState(GameState.Discovering);
 	}
 
 	/// <summary>
