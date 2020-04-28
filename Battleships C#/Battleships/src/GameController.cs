@@ -18,6 +18,7 @@ public static class GameController
 	private static BattleShipsGame _theGame;
 	private static Player _human;
 	private static AIPlayer _ai;
+	private static bool _isThemed;
 
 	private static Stack<GameState> _state = new Stack<GameState>();
 
@@ -58,6 +59,17 @@ public static class GameController
 	/// <returns>the conputer player</returns>
 	public static Player ComputerPlayer {
 		get { return _ai; }
+	}
+
+	/// <summary>
+	/// Returns the state of the theme (True or False).
+	/// </summary>
+	/// <value>the computer player</value>
+	/// <returns>Bool regarding if a theme is set</returns>
+	public static bool IsThemed
+	{
+		get { return _isThemed; }
+		set { _isThemed = value; }
 	}
 
 	static GameController()

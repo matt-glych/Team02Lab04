@@ -27,7 +27,8 @@ static class MenuController
 			"PLAY",
 			"SETUP",
 			"SCORES",
-			"QUIT"
+			"QUIT",
+			"THEME"
 		},
 		new string[] {
 			"RETURN",
@@ -51,22 +52,23 @@ static class MenuController
 	private const int TEXT_OFFSET = 0;
 	private const int MAIN_MENU = 0;
 	private const int GAME_MENU = 1;
-
 	private const int SETUP_MENU = 2;
+
 	private const int MAIN_MENU_PLAY_BUTTON = 0;
 	private const int MAIN_MENU_SETUP_BUTTON = 1;
 	private const int MAIN_MENU_TOP_SCORES_BUTTON = 2;
-
 	private const int MAIN_MENU_QUIT_BUTTON = 3;
+	private const int MAIN_MENU_THEME_BUTTON = 4;
+
 	private const int SETUP_MENU_EASY_BUTTON = 0;
 	private const int SETUP_MENU_MEDIUM_BUTTON = 1;
 	private const int SETUP_MENU_HARD_BUTTON = 2;
-
 	private const int SETUP_MENU_EXIT_BUTTON = 3;
+
 	private const int GAME_MENU_RETURN_BUTTON = 0;
 	private const int GAME_MENU_SURRENDER_BUTTON = 1;
-
 	private const int GAME_MENU_QUIT_BUTTON = 2;
+
 	private static readonly Color MENU_COLOR = SwinGame.RGBAColor(2, 167, 252, 255);
 
 	private static readonly Color HIGHLIGHT_COLOR = SwinGame.RGBAColor(1, 57, 86, 255);
@@ -201,7 +203,6 @@ static class MenuController
 		for (i = 0; i <= _menuStructure[menu].Length - 1; i++) {
 			int btnLeft = 0;
 			btnLeft = MENU_LEFT + BUTTON_SEP * (i + xOffset);
-            Rectangle rect = new Rectangle();
 			//SwinGame.FillRectangle(Color.White, btnLeft, btnTop, BUTTON_WIDTH, BUTTON_HEIGHT)
 			//SwinGame.DrawTextLines(_menuStructure[menu][i], MENU_COLOR, Color.Black, GameResources.GameFont("Menu"), FontAlignment.AlignCenter, btnLeft + TEXT_OFFSET, btnTop + TEXT_OFFSET, BUTTON_WIDTH, BUTTON_HEIGHT);
 			SwinGame.DrawText(_menuStructure[menu][i], MENU_COLOR, GameResources.GameFont("Menu"), btnLeft + TEXT_OFFSET, btnTop + TEXT_OFFSET);
@@ -210,6 +211,7 @@ static class MenuController
 			}
 		}
 	}
+
 
 	/// <summary>
 	/// Determined if the mouse is over one of the button in the main menu.
@@ -274,6 +276,10 @@ static class MenuController
 				break;
 			case MAIN_MENU_QUIT_BUTTON:
 				GameController.EndCurrentState();
+				break;
+			case MAIN_MENU_THEME_BUTTON:
+				GameController.IsThemed = ! GameController.IsThemed;
+				Console.WriteLine("Theme applied: " + GameController.IsThemed);
 				break;
 		}
 	}

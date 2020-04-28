@@ -5,6 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 //using System.Data;
 using System.Diagnostics;
+using static UtilityFunctions;
 /// <summary>
 /// Tile knows its location on the grid, if it is a ship and if it has been 
 /// shot before
@@ -60,7 +61,7 @@ public class Tile
 					_Ship.AddTile(this);
 				}
 			} else {
-				throw new InvalidOperationException("There is already a ship at [" + Row + ", " + Column + "]");
+				throw new InvalidOperationException("There is already a ship at [" + UtilityFunctions.RowConverter(Row) + ", " + Column + "]");
 			}
 		}
 	}
