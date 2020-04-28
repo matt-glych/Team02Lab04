@@ -117,3 +117,129 @@ D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Gam
 D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\SwinGameStart.ogg
 D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\watershot.wav
 D:\Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\GameTemplate\bin\Debug\Resources\sounds\winner.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\animations\splash.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\animations\startup.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\bundles\FileDialog.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\bundles\splash.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\fonts\arial.ttf
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\fonts\cour.ttf
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\fonts\ffaccess.ttf
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\highscores.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\deploy.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\deploy_button_hl.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\deploy_dir_button_horiz.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\deploy_dir_button_vert.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\deploy_play_button.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\deploy_randomize_button.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\discover.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\explosion.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\fdFile.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\fdFolder.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\FileDialog_Active.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\FileDialog_Background.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\FileDialog_Inactive.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\FileDialog_Scroll.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\loader_empty.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\loader_full.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\main_page.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\ship_deploy_horiz_1.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\ship_deploy_horiz_2.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\ship_deploy_horiz_3.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\ship_deploy_horiz_4.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\ship_deploy_horiz_5.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\ship_deploy_vert_1.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\ship_deploy_vert_2.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\ship_deploy_vert_3.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\ship_deploy_vert_4.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\ship_deploy_vert_5.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\splash.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\SplashBack.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\Swinburne.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\SwinGameAni.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\images\SwinGameAni.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\panels\FileDialog.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\sounds\error.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\sounds\hit.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\sounds\horrordrone.mp3
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\sounds\lose.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\sounds\sink.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\sounds\SwinGameStart.ogg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\sounds\SwinGameStart.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\sounds\watershot.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\sounds\winner.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\SwinGame.icns
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\Resources\SwinGame.ico
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\MyGame.exe.config
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\MyGame.exe
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\MyGame.pdb
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\bin\Debug\SwinGame.dll
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\obj\x86\Debug-Windows\MyGame.exe
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\NEW\Battleships\obj\x86\Debug-Windows\MyGame.pdb
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\animations\splash.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\animations\startup.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\bundles\FileDialog.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\bundles\splash.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\fonts\arial.ttf
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\fonts\cour.ttf
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\fonts\ffaccess.ttf
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\highscores.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\deploy.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\deploy_button_hl.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\deploy_dir_button_horiz.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\deploy_dir_button_vert.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\deploy_play_button.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\deploy_randomize_button.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\discover.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\explosion.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\fdFile.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\fdFolder.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\FileDialog_Active.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\FileDialog_Background.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\FileDialog_Inactive.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\FileDialog_Scroll.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\loader_empty.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\loader_full.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\main_page.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\ship_deploy_horiz_1.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\ship_deploy_horiz_2.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\ship_deploy_horiz_3.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\ship_deploy_horiz_4.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\ship_deploy_horiz_5.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\ship_deploy_vert_1.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\ship_deploy_vert_2.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\ship_deploy_vert_3.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\ship_deploy_vert_4.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\ship_deploy_vert_5.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\splash.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\SplashBack.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\Swinburne.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\SwinGameAni.jpg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\images\SwinGameAni.png
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\panels\FileDialog.txt
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\sounds\error.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\sounds\hit.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\sounds\horrordrone.mp3
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\sounds\lose.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\sounds\sink.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\sounds\SwinGameStart.ogg
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\sounds\SwinGameStart.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\sounds\watershot.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\sounds\winner.wav
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\SwinGame.icns
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\Resources\SwinGame.ico
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\MyGame.exe.config
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\MyGame.exe
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\MyGame.pdb
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\bin\Debug\SwinGame.dll
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\obj\x86\Debug-Windows\MyGame.exe
+E:\_Swinburne\2020\SWE20001 - Development Project 1 - Tools and Practices\Battleships C#\Battleships\obj\x86\Debug-Windows\MyGame.pdb

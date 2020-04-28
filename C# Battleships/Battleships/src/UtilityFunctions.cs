@@ -17,7 +17,7 @@ static class UtilityFunctions
 
 	public const int FIELD_HEIGHT = 418;
 
-	public const int MESSAGE_TOP = 548;
+	public const int MESSAGE_TOP = 565;
 	public const int CELL_WIDTH = 40;
 	public const int CELL_HEIGHT = 40;
 
